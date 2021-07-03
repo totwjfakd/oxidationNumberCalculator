@@ -1,6 +1,7 @@
 # oxidationNumberCalculator
 
 ---
+파이썬 GUI 프로그램 입니다.
 
 # launch
 
